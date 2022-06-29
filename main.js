@@ -1,0 +1,1 @@
+const divFive=document.querySelector('#divFive')
